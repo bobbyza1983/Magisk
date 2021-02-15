@@ -278,5 +278,6 @@ Actions:
    rm PKG [PROC]   Remove target(s) from the hide list
    ls              Print the current hide list
    exec CMDs...    Execute commands in isolated mount
-                   namespace and do all hide unmounts
+                   namespace and do all h
+ide unmounts
 ```
